@@ -4,7 +4,7 @@
 <h2>English Format</h2>
 <h4>Exercise</h4>
 <p>Create a "Vehicle" class. </p>
-<p>This class will start by defining vehicle characteristics, such as company (BMW, Ford, etc), model
+<p>This class will start by defining vehicle characteristics, such as brand, model
 the size of the tank, the amount of fuel at the time of purchase, etc.
 The class will also simulate actions such as "Show me the fuel level", "Fill
 the tank "," Put fuel "etc. </p>
@@ -32,3 +32,5 @@ In another script, call the classes using the import command. </p>
 Τέλος, αποθηκεύστε τις κλάσεις σας σε ένα αρχείο (δίνοντας ένα όνομα σχετικό πχ. "my_first_car.py").
 Σε ένα άλλο script καλέστε τις κλάσεις χρησιμοποιώντας την εντολή import.</p>
 <h5>...Καλοτάξιδο το αυτοκίνητό σας!</h5>
+
+Replit link: https://replit.com/@redbillis/Gas-Station-Simulation#main.py
